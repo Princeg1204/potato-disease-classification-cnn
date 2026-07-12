@@ -83,6 +83,11 @@ Potato-Disease-Classification-CNN/
 │   └── class_names.json
 │
 └── images/
+     ├── home.png
+     ├── healthy.png
+     ├── early_blight.png
+     ├── late_blight.png
+
 ```
 
 ---
@@ -117,12 +122,21 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-(Add screenshots here)
+### Home Page
 
-- Home Page
-- Image Upload
-- Prediction Result
-- Confidence Score
+![Home](images/home.png)
+
+### Healthy Prediction
+
+![Healthy](images/healthy.png)
+
+### Early Blight Prediction
+
+![Early Blight](images/early_blight.png)
+
+### Late Blight Prediction
+
+![Late Blight](images/late_blight.png)
 
 ---
 
